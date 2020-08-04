@@ -8,15 +8,25 @@
       <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_test_tmp/test_bs.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/operate_excel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/Chip_yuliao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/handle.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/lunwen.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/logic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_10_59_11/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_00_41/uai_log.txt" beforeDir="false" />
@@ -61,6 +71,7 @@
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_03_21/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_04_51/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_11_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_12_36/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_10_59_11.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_00_41.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_02_12.txt" beforeDir="false" />
@@ -104,6 +115,7 @@
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_03_21.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_04_51.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_11_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_12_36.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/main.py" afterDir="false" />
@@ -121,11 +133,13 @@
     <session id="-2060760999">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -155,10 +169,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
+            <state relative-caret-position="-244">
               <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -171,7 +185,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/handle_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="1142">
               <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -180,11 +194,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Logs/result_history/result_2020_07_22_15_20_02.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -230,7 +239,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -242,9 +251,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-224" />
-    <option name="y" value="256" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-35" />
+    <option name="y" value="33" />
     <option name="width" value="1820" />
     <option name="height" value="1047" />
   </component>
@@ -254,6 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +275,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,7 +406,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="374" y="100" width="1820" height="1047" extended-state="0" />
+    <frame x="-35" y="33" width="1820" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30583614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -425,16 +435,8 @@
     <entry file="file://$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_21_10_15_48/uai_log.txt" />
     <entry file="file://$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_21_10_15_48/uai_log_convert.txt" />
     <entry file="file://$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_21_10_23_10/uai_log_convert.txt" />
-    <entry file="file://$PROJECT_DIR$/ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1595479814292" expanded="true" signature="432:437" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/runlog.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -460,9 +462,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/result_history/result_2020_07_22_15_20_02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/handle_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="1142">
           <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -472,11 +477,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/result_history/result_2020_07_22_15_20_02.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1595479814292" expanded="true" signature="432:437" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
