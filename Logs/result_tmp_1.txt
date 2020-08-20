@@ -1,0 +1,3 @@
+2020- 8-20 09:47:37.959 /uaibot(  460:545878684128) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020- 8-20 09:53:01.059 /uaibot(  460:545878684128) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020- 8-20 09:53:05.159 /uaibot(  460:545878684128) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou

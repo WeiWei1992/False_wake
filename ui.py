@@ -1,4 +1,5 @@
 import os
+import delete_runlog
 import time
 from datetime import datetime
 import re
@@ -19,7 +20,14 @@ def cut_email(email):
     email_list=re.split('[, ：; ]',email.strip())
     return email_list
 
+def delete_runlog():
+    res=os.getcwd()
+    log_path=os.path.join(res,'runlog.log')
+    if os.path.isfile(log_path):
+        os.remove(log_path)
+
 def _ui():
+    #delete_runlog()
     root=Tk()
     root.title("智能音响误唤醒测试工具")
     # root.geometry("500x300+750+200")  #窗口位置,这里四个参数分别为：宽、高、左、上
@@ -38,7 +46,7 @@ def _ui():
     root.geometry("%dx%d+%d+%d" % (x, y, ww, wh))
     # root.minsize(560,545)
     # Label(root,text="zuopin").grid(row=0)  #使用这种方法没有办法剧中
-    title = Label(root, text="              智能音响误唤醒测试工具", compound=CENTER, font=("微软雅黑", 20))
+    title = Label(root, text="              智能音响误唤醒测试工具V2.0", compound=CENTER, font=("微软雅黑", 20))
     title.grid(row=0, columnspan=3, sticky=E + W)
 
     def click():
@@ -96,8 +104,7 @@ def _ui():
     email_entry.grid(row=4, column=1, sticky=W)
 
 
-
-    text=scrolledtext.ScrolledText(root,width=80,height=30)
+    text=scrolledtext.ScrolledText(root,width=80,height=20)
     text.grid(row=5,column=1,columnspan=2,sticky=W)
 
     click_btn = Button(root, text="开始测试", command=click)

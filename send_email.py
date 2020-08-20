@@ -87,7 +87,7 @@ def my_send_email(msg_to,file_path,test_time):
         msg.attach(att1)
 
 
-    logging.info("没有误唤醒，不发送附件")
+    #logging.info("没有误唤醒，不发送附件")
     # 放入邮件主题
     msg['Subject'] = subject
 
