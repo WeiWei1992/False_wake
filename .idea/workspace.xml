@@ -36,48 +36,14 @@
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Chip_yuliao/handle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_trans/trans_yuliao.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_15_04/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_16_15/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_17_27/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_18_39/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_19_50/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_36_40/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_37_44/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_38_48/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_39_52/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_40_55/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_43_50/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_44_54/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_45_58/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_47_02/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_22_15_48_06/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_07_23_10_03_55/uai_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_history/result_2020_07_21_14_33_55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_history/result_2020_07_22_15_20_02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_history/result_tmp_2020_07_21_14_33_55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_history/result_tmp_2020_07_22_15_20_02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_15_04/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_16_15/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_17_27/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_18_39/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_19_50/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_36_40/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_37_44/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_38_48/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_39_52/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_40_55/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_43_50/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_44_54/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_45_58/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_47_02/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_22_15_48_06/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_07_23_10_03_55/uai_log_convert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/handle_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/handle_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/audio/audio_first_2020_08_20_10_04_40/audio/wakeup_v2_0.pcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/audio/audio_first_2020_08_20_10_04_40/audio/wakeup_v2_1.pcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/audio/audio_first_2020_08_20_10_04_40/audio/wakeup_v2_2.pcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/original_log/uai_log_2020_08_20_10_04_40/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/result_log/uai_result_log_2020_08_20_10_04_40/uai_log_convert.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/result_tmp_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/result_tmp_1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public.py" beforeDir="false" afterPath="$PROJECT_DIR$/public.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/runlog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_10_59_11/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_00_41/uai_log.txt" beforeDir="false" />
@@ -184,15 +150,16 @@
     <session id="-2060760999">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -213,22 +180,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7645" />
+          <entry key="py" value="7933" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7645" />
+          <entry key="Python" value="7933" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2517">
+            <state relative-caret-position="28">
               <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding>
                 <marker date="1597889047310" expanded="true" signature="463:590" ph="..." />
@@ -241,8 +208,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/handle_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-837">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="-196">
+              <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
                 <marker date="1597888188689" expanded="true" signature="375:376" ph="..." />
@@ -255,7 +222,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
+            <state relative-caret-position="815">
               <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -265,16 +232,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="206">
+              <caret line="131" column="48" selection-start-line="131" selection-start-column="48" selection-end-line="131" selection-end-column="48" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <element signature="e#845#1249#0" />
-                <marker date="1597825895757" expanded="false" signature="253:258" ph="..." />
-                <marker date="1597825895757" expanded="true" signature="253:811" ph="..." />
+                <marker date="1598256944863" expanded="true" signature="253:258" ph="..." />
+                <marker date="1598256944863" expanded="true" signature="253:811" ph="..." />
               </folding>
             </state>
           </provider>
@@ -318,17 +284,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public.py" />
         <option value="$PROJECT_DIR$/send_email.py" />
         <option value="$PROJECT_DIR$/handle_main.py" />
         <option value="$PROJECT_DIR$/delete_runlog.py" />
         <option value="$PROJECT_DIR$/ui.py" />
+        <option value="$PROJECT_DIR$/public.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-115" />
-    <option name="y" value="99" />
+    <option name="x" value="74" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -504,15 +469,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-115" y="99" width="1936" height="1056" extended-state="0" />
+    <frame x="74" y="0" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17017913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17017913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38762215" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.616721" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3083605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,41 +503,19 @@
     <entry file="file://$PROJECT_DIR$/Logs/result_tmp_1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1597827543786" expanded="true" signature="620:621" ph="..." />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/runlog.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-94820" />
       </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/log.conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handle_main.py">
+    <entry file="file://$PROJECT_DIR$/ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-837">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="28">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1597888188689" expanded="true" signature="375:376" ph="..." />
-            <marker date="1597888188689" expanded="true" signature="375:380" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#845#1249#0" />
-            <marker date="1597825895757" expanded="false" signature="253:258" ph="..." />
-            <marker date="1597825895757" expanded="true" signature="253:811" ph="..." />
+            <marker date="1597889047310" expanded="true" signature="463:590" ph="..." />
+            <marker date="1597889047310" expanded="true" signature="621:626" ph="..." />
           </folding>
         </state>
       </provider>
@@ -584,19 +527,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-94820" />
-      </provider>
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    <entry file="file://$PROJECT_DIR$/log.conf">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.py">
+    <entry file="file://$PROJECT_DIR$/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2517">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="815">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
           <folding>
-            <marker date="1597889047310" expanded="true" signature="463:590" ph="..." />
-            <marker date="1597889047310" expanded="true" signature="621:626" ph="..." />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1597827543786" expanded="true" signature="620:621" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1597888188689" expanded="true" signature="375:376" ph="..." />
+            <marker date="1597888188689" expanded="true" signature="375:380" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="131" column="48" selection-start-line="131" selection-start-column="48" selection-end-line="131" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1598256944863" expanded="true" signature="253:258" ph="..." />
+            <marker date="1598256944863" expanded="true" signature="253:811" ph="..." />
           </folding>
         </state>
       </provider>

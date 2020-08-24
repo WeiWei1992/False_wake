@@ -126,6 +126,13 @@ def load_log(device_id=None, filepath=None):
     time.sleep(3)
     print("file_path_1:  ",file_path_1 )
     print("file_path_2:  ",file_path_2)
+    logging.info("file_path_1: "+str(file_path_1))
+    logging.info("file_path_2: "+str(file_path_2))
+
+    #2020-08-24新增，使用的过程中，出现了一次拉取出来的日志是空，转换后的路径是空，导致异常，可以在日志中加入一行无关紧要的日志。
+    tmp_txt='this line is my test ,it is not work,because of if the log is none,will error ---weiwei \n'
+    save_txt(tmp_txt,file_path_2)
+
     conver_log(file_path_1,file_path_2)
     return file_path_2
     #return file_path_1,file_path_2

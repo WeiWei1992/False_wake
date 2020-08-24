@@ -1,0 +1,221 @@
+2020-08-24 16:11:27,275 ui.py[line:53] INFO 点击开始测试按钮，开始测试
+2020-08-24 16:11:27,275 ui.py[line:56] INFO 获取到的日志提取间隔是： 1
+2020-08-24 16:11:27,275 ui.py[line:59] INFO 获取到的测试总时长是： 0.1
+2020-08-24 16:11:27,276 ui.py[line:62] INFO 获取到的设备id： JYZ26175
+2020-08-24 16:11:27,276 ui.py[line:65] INFO 获取到的email: 319910390@qq.com;
+2020-08-24 16:11:27,277 ui.py[line:67] INFO 切割后的email: ['319910390@qq.com', '']
+2020-08-24 16:11:27,278 handle_main.py[line:18] INFO 开始处理
+2020-08-24 16:11:27,278 handle_main.py[line:19] INFO handle接收到的log_time(分钟)：1
+2020-08-24 16:11:27,278 handle_main.py[line:20] INFO handle接收到的test_time(h):0.1
+2020-08-24 16:11:27,278 handle_main.py[line:21] INFO handle接收到的device_id： JYZ26175
+2020-08-24 16:11:27,280 handle_main.py[line:22] INFO handle接收到的email: ['319910390@qq.com', '']
+2020-08-24 16:11:27,280 handle_main.py[line:24] INFO log_time分钟转换为秒： 60
+2020-08-24 16:11:27,280 handle_main.py[line:26] INFO test_time小时转换为秒： 360.0
+2020-08-24 16:11:27,283 handle_main.py[line:36] INFO 首先先记录下开始时间为： 2020-08-24 16:11:27
+2020-08-24 16:11:27,283 handle_main.py[line:39] INFO 先删除日志文件
+2020-08-24 16:11:27,283 public.py[line:144] INFO 首先清除下日志文件
+2020-08-24 16:11:27,283 public.py[line:166] INFO 删除: D:\Python_Project\False_wake\Logs/audio
+2020-08-24 16:11:27,287 public.py[line:176] INFO 删除： D:\Python_Project\False_wake\Logs/original_log
+2020-08-24 16:11:27,288 public.py[line:194] INFO 删除： D:\Python_Project\False_wake\Logs/result_log
+2020-08-24 16:11:27,290 public.py[line:207] INFO 删除： D:\Python_Project\False_wake\Logs/result_tmp_1.txt
+2020-08-24 16:11:27,291 handle_main.py[line:47] INFO 首先要提取下当前日志，为了最后过滤
+2020-08-24 16:11:27,291 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_11_27
+2020-08-24 16:11:30,622 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_11_27\uai_log.txt
+2020-08-24 16:11:30,622 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_11_27\uai_log_convert.txt
+2020-08-24 16:11:34,189 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:11:34,189 handle_main.py[line:49] INFO 开始拉取audio文件
+2020-08-24 16:11:34,189 public.py[line:61] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_first_2020_08_24_16_11_27
+2020-08-24 16:11:34,190 public.py[line:67] INFO 文件不存在，新建文件夹
+2020-08-24 16:11:38,186 handle_main.py[line:51] INFO 拉取audio文件结束
+2020-08-24 16:11:38,186 handle_main.py[line:52] INFO 开始正则匹配
+2020-08-24 16:11:38,186 public.py[line:345] INFO 处理第一次拉取的日志
+2020-08-24 16:11:38,203 public.py[line:356] INFO 正则匹配到了
+2020-08-24 16:11:38,203 public.py[line:357] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:11:38,203 public.py[line:358] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:11:38,203 public.py[line:359] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:11:38,236 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:11:38,236 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:11:38
+2020-08-24 16:11:38,236 handle_main.py[line:67] INFO 时间间隔为(s): 11
+2020-08-24 16:11:38,236 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:11:38,236 handle_main.py[line:75] INFO 时间间隔没有超过要测试的时间，等待日志时间后，接着执行
+2020-08-24 16:11:38,237 handle_main.py[line:79] INFO 等待......0
+2020-08-24 16:11:48,238 handle_main.py[line:79] INFO 等待......1
+2020-08-24 16:11:58,240 handle_main.py[line:79] INFO 等待......2
+2020-08-24 16:12:08,241 handle_main.py[line:79] INFO 等待......3
+2020-08-24 16:12:18,242 handle_main.py[line:79] INFO 等待......4
+2020-08-24 16:12:28,243 handle_main.py[line:79] INFO 等待......5
+2020-08-24 16:12:38,244 handle_main.py[line:81] INFO 等待时间结束
+2020-08-24 16:12:38,244 handle_main.py[line:82] INFO 提取日志，并转码
+2020-08-24 16:12:38,245 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_12_38
+2020-08-24 16:12:41,573 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_12_38\uai_log.txt
+2020-08-24 16:12:41,573 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_12_38\uai_log_convert.txt
+2020-08-24 16:12:45,021 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:12:45,021 handle_main.py[line:85] INFO 开始拉取audio文件
+2020-08-24 16:12:45,021 public.py[line:76] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_2020_08_24_16_12_38
+2020-08-24 16:12:45,021 public.py[line:82] INFO 文件不存在，新建文件夹
+2020-08-24 16:12:48,835 handle_main.py[line:88] INFO 拉取audio文件结束
+2020-08-24 16:12:48,835 handle_main.py[line:89] INFO 开始正则匹配
+2020-08-24 16:12:48,835 public.py[line:371] INFO 处理非第一次的日志
+2020-08-24 16:12:48,852 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:12:48,852 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:12:48,852 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:12:48,852 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:12:48,854 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:12:48,854 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:12:48,887 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:12:48,887 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:12:48
+2020-08-24 16:12:48,887 handle_main.py[line:67] INFO 时间间隔为(s): 81
+2020-08-24 16:12:48,887 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:12:48,888 handle_main.py[line:75] INFO 时间间隔没有超过要测试的时间，等待日志时间后，接着执行
+2020-08-24 16:12:48,888 handle_main.py[line:79] INFO 等待......0
+2020-08-24 16:12:58,889 handle_main.py[line:79] INFO 等待......1
+2020-08-24 16:13:08,890 handle_main.py[line:79] INFO 等待......2
+2020-08-24 16:13:18,891 handle_main.py[line:79] INFO 等待......3
+2020-08-24 16:13:28,891 handle_main.py[line:79] INFO 等待......4
+2020-08-24 16:13:38,892 handle_main.py[line:79] INFO 等待......5
+2020-08-24 16:13:48,893 handle_main.py[line:81] INFO 等待时间结束
+2020-08-24 16:13:48,893 handle_main.py[line:82] INFO 提取日志，并转码
+2020-08-24 16:13:48,894 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_13_48
+2020-08-24 16:13:52,226 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_13_48\uai_log.txt
+2020-08-24 16:13:52,226 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_13_48\uai_log_convert.txt
+2020-08-24 16:13:55,642 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:13:55,642 handle_main.py[line:85] INFO 开始拉取audio文件
+2020-08-24 16:13:55,642 public.py[line:76] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_2020_08_24_16_13_48
+2020-08-24 16:13:55,643 public.py[line:82] INFO 文件不存在，新建文件夹
+2020-08-24 16:13:59,457 handle_main.py[line:88] INFO 拉取audio文件结束
+2020-08-24 16:13:59,457 handle_main.py[line:89] INFO 开始正则匹配
+2020-08-24 16:13:59,457 public.py[line:371] INFO 处理非第一次的日志
+2020-08-24 16:13:59,474 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:13:59,474 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:13:59,474 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:13:59,474 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:13:59,475 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:13:59,476 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:13:59,509 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:13:59,509 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:13:59
+2020-08-24 16:13:59,509 handle_main.py[line:67] INFO 时间间隔为(s): 152
+2020-08-24 16:13:59,509 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:13:59,509 handle_main.py[line:75] INFO 时间间隔没有超过要测试的时间，等待日志时间后，接着执行
+2020-08-24 16:13:59,509 handle_main.py[line:79] INFO 等待......0
+2020-08-24 16:14:09,510 handle_main.py[line:79] INFO 等待......1
+2020-08-24 16:14:19,511 handle_main.py[line:79] INFO 等待......2
+2020-08-24 16:14:29,512 handle_main.py[line:79] INFO 等待......3
+2020-08-24 16:14:39,513 handle_main.py[line:79] INFO 等待......4
+2020-08-24 16:14:49,514 handle_main.py[line:79] INFO 等待......5
+2020-08-24 16:14:59,514 handle_main.py[line:81] INFO 等待时间结束
+2020-08-24 16:14:59,514 handle_main.py[line:82] INFO 提取日志，并转码
+2020-08-24 16:14:59,514 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_14_59
+2020-08-24 16:15:02,830 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_14_59\uai_log.txt
+2020-08-24 16:15:02,830 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_14_59\uai_log_convert.txt
+2020-08-24 16:15:06,843 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:15:06,843 handle_main.py[line:85] INFO 开始拉取audio文件
+2020-08-24 16:15:06,843 public.py[line:76] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_2020_08_24_16_14_59
+2020-08-24 16:15:06,843 public.py[line:82] INFO 文件不存在，新建文件夹
+2020-08-24 16:15:10,708 handle_main.py[line:88] INFO 拉取audio文件结束
+2020-08-24 16:15:10,708 handle_main.py[line:89] INFO 开始正则匹配
+2020-08-24 16:15:10,708 public.py[line:371] INFO 处理非第一次的日志
+2020-08-24 16:15:10,725 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:15:10,725 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:15:10,726 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:15:10,726 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:15:10,727 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:15:10,727 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:15:10,762 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:15:10,762 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:15:10
+2020-08-24 16:15:10,762 handle_main.py[line:67] INFO 时间间隔为(s): 223
+2020-08-24 16:15:10,762 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:15:10,762 handle_main.py[line:75] INFO 时间间隔没有超过要测试的时间，等待日志时间后，接着执行
+2020-08-24 16:15:10,763 handle_main.py[line:79] INFO 等待......0
+2020-08-24 16:15:20,764 handle_main.py[line:79] INFO 等待......1
+2020-08-24 16:15:30,764 handle_main.py[line:79] INFO 等待......2
+2020-08-24 16:15:40,765 handle_main.py[line:79] INFO 等待......3
+2020-08-24 16:15:50,766 handle_main.py[line:79] INFO 等待......4
+2020-08-24 16:16:00,768 handle_main.py[line:79] INFO 等待......5
+2020-08-24 16:16:10,769 handle_main.py[line:81] INFO 等待时间结束
+2020-08-24 16:16:10,769 handle_main.py[line:82] INFO 提取日志，并转码
+2020-08-24 16:16:10,770 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_16_10
+2020-08-24 16:16:14,070 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_16_10\uai_log.txt
+2020-08-24 16:16:14,070 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_16_10\uai_log_convert.txt
+2020-08-24 16:16:17,954 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:16:17,954 handle_main.py[line:85] INFO 开始拉取audio文件
+2020-08-24 16:16:17,954 public.py[line:76] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_2020_08_24_16_16_10
+2020-08-24 16:16:17,954 public.py[line:82] INFO 文件不存在，新建文件夹
+2020-08-24 16:16:22,001 handle_main.py[line:88] INFO 拉取audio文件结束
+2020-08-24 16:16:22,001 handle_main.py[line:89] INFO 开始正则匹配
+2020-08-24 16:16:22,001 public.py[line:371] INFO 处理非第一次的日志
+2020-08-24 16:16:22,019 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:16:22,019 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:16:22,019 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:16:22,019 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:16:22,020 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:16:22,020 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:16:22,055 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:16:22,056 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:16:22
+2020-08-24 16:16:22,056 handle_main.py[line:67] INFO 时间间隔为(s): 295
+2020-08-24 16:16:22,056 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:16:22,056 handle_main.py[line:75] INFO 时间间隔没有超过要测试的时间，等待日志时间后，接着执行
+2020-08-24 16:16:22,056 handle_main.py[line:79] INFO 等待......0
+2020-08-24 16:16:32,058 handle_main.py[line:79] INFO 等待......1
+2020-08-24 16:16:42,058 handle_main.py[line:79] INFO 等待......2
+2020-08-24 16:16:52,059 handle_main.py[line:79] INFO 等待......3
+2020-08-24 16:17:02,059 handle_main.py[line:79] INFO 等待......4
+2020-08-24 16:17:12,059 handle_main.py[line:79] INFO 等待......5
+2020-08-24 16:17:22,061 handle_main.py[line:81] INFO 等待时间结束
+2020-08-24 16:17:22,061 handle_main.py[line:82] INFO 提取日志，并转码
+2020-08-24 16:17:22,062 public.py[line:105] INFO adb shell 命令：adb -s JYZ26175 pull /data/uai_log.txt D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_17_22
+2020-08-24 16:17:25,388 public.py[line:129] INFO file_path_1: D:\Python_Project\False_wake/Logs/original_log/uai_log_2020_08_24_16_17_22\uai_log.txt
+2020-08-24 16:17:25,388 public.py[line:130] INFO file_path_2: D:\Python_Project\False_wake/Logs/result_log/uai_result_log_2020_08_24_16_17_22\uai_log_convert.txt
+2020-08-24 16:17:29,181 public.py[line:21] INFO 日志转换到了结尾
+2020-08-24 16:17:29,181 handle_main.py[line:85] INFO 开始拉取audio文件
+2020-08-24 16:17:29,181 public.py[line:76] INFO 拉取audio文件命令: adb -s JYZ26175 pull /tmp/audio D:\Python_Project\False_wake/Logs/audio/audio_2020_08_24_16_17_22
+2020-08-24 16:17:29,182 public.py[line:82] INFO 文件不存在，新建文件夹
+2020-08-24 16:17:32,310 handle_main.py[line:88] INFO 拉取audio文件结束
+2020-08-24 16:17:32,310 handle_main.py[line:89] INFO 开始正则匹配
+2020-08-24 16:17:32,310 public.py[line:371] INFO 处理非第一次的日志
+2020-08-24 16:17:32,332 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:17:32,332 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:17:32,332 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:17:32,332 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:17:32,332 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:17:32,332 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:17:32,369 public.py[line:382] INFO 正则匹配到了
+2020-08-24 16:17:32,369 public.py[line:383] INFO matchObj_wakeup.group:  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:17:32,370 public.py[line:384] INFO matchObj_wakeup.group(1): (  442:546770473440) DEBUG  
+2020-08-24 16:17:32,370 public.py[line:385] INFO 输出该行：  /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+2020-08-24 16:17:32,370 public.py[line:254] INFO 将结果临时保存到txt中
+2020-08-24 16:17:32,370 public.py[line:255] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:17:32,374 handle_main.py[line:56] INFO 循环执行
+2020-08-24 16:17:32,374 handle_main.py[line:64] INFO 记录下当前时间为： 2020-08-24 16:17:32
+2020-08-24 16:17:32,374 handle_main.py[line:67] INFO 时间间隔为(s): 365
+2020-08-24 16:17:32,374 handle_main.py[line:69] INFO 判断时间间隔是否超过了要测试的时间
+2020-08-24 16:17:32,374 handle_main.py[line:72] INFO 时间间隔超过了要测试的时间，退出循环
+2020-08-24 16:17:32,374 public.py[line:275] INFO 处理结果
+2020-08-24 16:17:32,374 public.py[line:282] INFO 第一次拉取的日志中存在唤醒日志...
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:298] INFO 列表中没有该行，保存........
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:296] INFO 列表中已存在该行，略过
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:296] INFO 列表中已存在该行，略过
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:296] INFO 列表中已存在该行，略过
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:296] INFO 列表中已存在该行，略过
+2020-08-24 16:17:32,375 public.py[line:294] INFO 检查列表中是否有重复的
+2020-08-24 16:17:32,375 public.py[line:298] INFO 列表中没有该行，保存........
+2020-08-24 16:17:32,375 public.py[line:304] INFO 如果第一次拉取的日志中有唤醒日志，需要过滤
+2020-08-24 16:17:32,375 public.py[line:307] INFO 2020- 8-24 15:33:42.889 /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+存在第一次日志中，过滤
+2020-08-24 16:17:32,375 public.py[line:309] INFO 2020- 8-24 16:16:11.052 /uaibot(  442:546770473440) DEBUG  [app][onWakeup] app - wakeup: xiaoyouxiaoyou
+不存在第一次日志中，保存
+2020-08-24 16:17:32,376 public.py[line:316] INFO 保存最终结果到: D:\Python_Project\False_wake\Logs/result.txt
+2020-08-24 16:17:32,376 handle_main.py[line:115] INFO 有唤醒文件
+2020-08-24 16:17:32,376 public.py[line:229] INFO result_tmp_path: D:\Python_Project\False_wake\Logs/result_tmp.txt
+2020-08-24 16:17:32,376 public.py[line:231] INFO resul_tmp_path存在，移动并重命名
+2020-08-24 16:17:32,377 public.py[line:239] INFO result_path: D:\Python_Project\False_wake\Logs/result.txt
+2020-08-24 16:17:32,377 public.py[line:241] INFO result_path 存在，移动名重命名
+2020-08-24 16:17:32,378 send_email.py[line:22] INFO 开始发送邮件
+2020-08-24 16:17:32,378 send_email.py[line:41] INFO 存在误唤醒，发送格式1
+2020-08-24 16:17:32,379 send_email.py[line:80] INFO 存在误唤醒，发送附件
+2020-08-24 16:17:33,537 send_email.py[line:103] INFO 邮件发送成功
+2020-08-24 16:17:33,537 send_email.py[line:109] INFO 结束发送邮件
