@@ -101,7 +101,7 @@ def load_log(device_id=None, filepath=None):
         adbshell = 'adb -s ' + str(device_id) + ' pull /data/uai_log.txt ' + filepath
         #adbshell = 'adb pull /tmp/uai_log.txt ' + filepath
     else:
-        adbshell = 'adb pull /tmp/uai_log.txt ' + filepath
+        adbshell = 'adb pull /data/uai_log.txt ' + filepath
     logging.info("adb shell 命令：" + adbshell)
     result = os.path.exists(filepath)
     if result:  # 如果该文件夹存在
@@ -130,7 +130,7 @@ def load_log(device_id=None, filepath=None):
     logging.info("file_path_2: "+str(file_path_2))
 
     #2020-08-24新增，使用的过程中，出现了一次拉取出来的日志是空，转换后的路径是空，导致异常，可以在日志中加入一行无关紧要的日志。
-    tmp_txt='this line is my test ,it is not work,because of if the log is none,will error ---weiwei \n'
+    tmp_txt='this is conver log ,because of if the log is none,the program will be error,so I add this line ---weiwei \n\n'
     save_txt(tmp_txt,file_path_2)
 
     conver_log(file_path_1,file_path_2)

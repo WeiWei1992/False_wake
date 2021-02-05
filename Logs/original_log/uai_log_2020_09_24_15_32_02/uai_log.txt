@@ -1,0 +1,939 @@
+2020- 9-24 15:29:18.772
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:18.771283][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:18.790
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:18.789943][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:18.792
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:18.791429][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:18.793
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:18.792943][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:20.084
+ /uaibot(  452:547880579552) DEBUG  [app][dispatchDelayedMessages] dispatch delayed msg
+2020- 9-24 15:29:20.085
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchLoop] handle msg id: 401
+2020- 9-24 15:29:20.085
+ /uaibot(  452:547879530976) DEBUG  [app][handleMessage] receive timer upload wakeup msg.
+2020- 9-24 15:29:20.085
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] dispatch msg id: 402, name:msg_timer_upload_wakeup, delay:120s, sender:Timer, receiver:Timer
+2020- 9-24 15:29:20.085
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] before insert telegram.
+2020- 9-24 15:29:20.085
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] after insert telegram.
+2020- 9-24 15:29:20.119
+ /uaibot(  452:547879530976) DEBUG  [app][handleMessage] wakeup file nums = 4
+2020- 9-24 15:29:20.120
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchLoop] handle msg id: 401 over
+2020- 9-24 15:29:20.999
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4976, Timestamp:1600932560998
+2020- 9-24 15:29:21.340
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24785339][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:23.036
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:23.037
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:23.040
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:24.343
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24788343][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:26.000
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4977, Timestamp:1600932565999
+2020- 9-24 15:29:27.347
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24791346][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:27.347
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:27.346908][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:29:27.976
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:27.977
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:27.979
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:28.804
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.803901][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.806
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.805426][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.808
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.808168][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.867
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.866310][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.868
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.867916][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.870
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.869375][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.875
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.875134][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.955
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.954899][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.969
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.968366][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.970
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.969998][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.972
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.971330][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.976
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.975820][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.977
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.977224][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:28.981
+ /uaibot(  452:547477443040) DEBUG  [app][ProcessThread] ===schedule thread live
+2020- 9-24 15:29:28.981
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:28.981098][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:30.350
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24794350][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:31.002
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4978, Timestamp:1600932571002
+2020- 9-24 15:29:33.067
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:33.068
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:33.070
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:33.352
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24797351][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:35.167
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1240, recording state is:1
+2020- 9-24 15:29:36.003
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4979, Timestamp:1600932576003
+2020- 9-24 15:29:36.356
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24800355][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:36.356
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:36.355843][cae_mqtt_client_publish_0:586][send pub topic: Dev/ACB1EE30241C/HeartBeat]
+2020- 9-24 15:29:36.390
+ /uaibot(  452:546074419680) DEBUG  [USS][I][24800389][uss_acd_mqtt_parse_dev_biz_topic:324]get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck
+2020- 9-24 15:29:36.390
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:36.389745][cae_cd_parse_recv_pub:583][get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck]
+2020- 9-24 15:29:36.390
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:36.389979][cae_cd_priv_recv_pub_cb:1088][payload [0x51]: {"sn":"444"}]
+2020- 9-24 15:29:36.390
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:36.390180][cae_cd_priv_handle_heart_ack:187][heart ack -828911906 sn 444 last -828911941 sn 444 ]
+2020- 9-24 15:29:38.035
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:38.036
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:38.039
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:38.990
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:38.990115][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:38.992
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:38.991359][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:38.993
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:38.992836][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.130
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.129869][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.132
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.131469][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.134
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.133437][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.135
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.134940][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.137
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.136324][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.138
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.137794][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.140
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.139283][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.179
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.178349][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.179
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.179348][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.220
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.219572][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.223
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:39.222418][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:39.392
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24803391][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:39.392
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:39.392223][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:29:41.005
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4980, Timestamp:1600932581004
+2020- 9-24 15:29:42.395
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24806394][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:43.016
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:43.016
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:43.019
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:45.396
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24809395][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:46.006
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4981, Timestamp:1600932586005
+2020- 9-24 15:29:48.044
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:48.044
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:48.047
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:48.400
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24812399][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:49.233
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.232667][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.234
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.234245][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.237
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.236648][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.347
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.346650][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.349
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.348432][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.366
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.365476][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.402
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.401957][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.404
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.403516][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.409
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.408827][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.410
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.410121][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.459
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.459008][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.461
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.460636][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.462
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.461957][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:49.463
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:49.463293][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:51.007
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4982, Timestamp:1600932591006
+2020- 9-24 15:29:51.401
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24815400][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:51.401
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:29:51.400680][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:29:52.956
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:52.957
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:52.959
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:54.404
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24818403][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:55.167
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1241, recording state is:1
+2020- 9-24 15:29:56.008
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4983, Timestamp:1600932596007
+2020- 9-24 15:29:57.408
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24821407][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:29:58.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:58.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:29:58.063
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:29:59.468
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.467453][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.469
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.468654][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.470
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.470163][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.602
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.601343][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.603
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.602889][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.607
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.606906][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.609
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.608382][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.646
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.646123][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.648
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.647508][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.692
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.692216][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.694
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.693662][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.699
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.698916][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.701
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.700466][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.705
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.704988][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:29:59.707
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:29:59.706355][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:00.411
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24824411][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:01.009
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4984, Timestamp:1600932601008
+2020- 9-24 15:30:03.084
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:03.084
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:03.087
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:03.412
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24827411][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:03.412
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:03.412226][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:30:06.010
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4985, Timestamp:1600932606009
+2020- 9-24 15:30:06.416
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24830415][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:08.024
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:08.024
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:08.027
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:08.591
+ /uaibot(  452:547477443040) DEBUG  [app][ProcessThread] ===schedule thread live
+2020- 9-24 15:30:09.418
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24833418][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:09.716
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.715614][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.717
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.716869][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.718
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.718306][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.848
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.848061][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.851
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.851197][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.855
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.854669][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.856
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.856098][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.858
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.857941][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.860
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.859494][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.861
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.860824][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.863
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.862687][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.874
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.873797][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.875
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.875210][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.891
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.890872][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:09.895
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:09.894856][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:11.011
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4986, Timestamp:1600932611010
+2020- 9-24 15:30:12.422
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24836421][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:13.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:13.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:13.063
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:15.168
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1242, recording state is:1
+2020- 9-24 15:30:15.424
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24839423][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:15.424
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:15.424226][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:30:16.012
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4987, Timestamp:1600932616012
+2020- 9-24 15:30:18.025
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:18.025
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:18.027
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:18.428
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24842427][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:19.904
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:19.903903][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:19.906
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:19.905451][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:19.908
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:19.908154][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:19.997
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:19.997176][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:19.999
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:19.998790][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.012
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.012060][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.013
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.013326][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.078
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.078204][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.080
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.079771][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.081
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.081063][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.089
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.088563][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.092
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.091930][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.094
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.093738][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.096
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.095378][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:20.101
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:20.100654][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:21.013
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4988, Timestamp:1600932621013
+2020- 9-24 15:30:21.431
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24845431][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:23.052
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:23.052
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:23.055
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:24.434
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24848434][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:26.015
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4989, Timestamp:1600932626014
+2020- 9-24 15:30:27.436
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24851435][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:27.436
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:27.436236][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:30:28.076
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:28.076
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:28.079
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:30.108
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.108127][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.110
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.109717][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.112
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.112154][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.114
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.113468][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.115
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.114723][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.116
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.115975][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.211
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.211174][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.219
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.218890][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.221
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.220776][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.226
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.226244][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.244
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.243411][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.245
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.245085][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.316
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.315966][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.317
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:30.317252][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:30.440
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24854439][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:31.016
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4990, Timestamp:1600932631015
+2020- 9-24 15:30:33.080
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:33.080
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:33.083
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:33.443
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24857443][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:33.444
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:33.443578][cae_mqtt_client_publish_0:586][send pub topic: Dev/ACB1EE30241C/HeartBeat]
+2020- 9-24 15:30:33.474
+ /uaibot(  452:546074419680) DEBUG  [USS][I][24857473][uss_acd_mqtt_parse_dev_biz_topic:324]get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck
+2020- 9-24 15:30:33.474
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:33.473656][cae_cd_parse_recv_pub:583][get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck]
+2020- 9-24 15:30:33.474
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:33.473855][cae_cd_priv_recv_pub_cb:1088][payload [0x51]: {"sn":"445"}]
+2020- 9-24 15:30:33.474
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:33.474053][cae_cd_priv_handle_heart_ack:187][heart ack -828854822 sn 445 last -828854853 sn 445 ]
+2020- 9-24 15:30:35.168
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1243, recording state is:1
+2020- 9-24 15:30:36.017
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4991, Timestamp:1600932636016
+2020- 9-24 15:30:36.476
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24860475][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:37.996
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:37.996
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:37.999
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:39.477
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24863476][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:39.477
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:39.477022][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:30:40.325
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.324547][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.326
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.326023][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.329
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.328389][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.347
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.346332][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.348
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.348004][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.352
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.352074][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.355
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.355053][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.446
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.446132][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.450
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.449406][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.466
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.466245][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.471
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.471062][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.473
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.472423][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.474
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.473854][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.491
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.490537][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:40.492
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:40.492208][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:41.018
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4992, Timestamp:1600932641017
+2020- 9-24 15:30:42.481
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24866480][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:43.025
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:43.026
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:43.028
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:45.482
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24869482][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:46.019
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4993, Timestamp:1600932646018
+2020- 9-24 15:30:48.025
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:48.025
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:48.030
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:48.200
+ /uaibot(  452:547477443040) DEBUG  [app][ProcessThread] ===schedule thread live
+2020- 9-24 15:30:48.486
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24872485][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:50.500
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.499882][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.502
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.501339][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.504
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.503572][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.582
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.581912][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.585
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.584627][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.586
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.586109][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.588
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.587588][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.592
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.591687][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.659
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.658710][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.684
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.683969][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.686
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.685598][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.687
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.686981][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:50.690
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:30:50.689337][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:30:51.020
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4994, Timestamp:1600932651019
+2020- 9-24 15:30:51.490
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24875489][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:51.490
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:30:51.489754][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:30:53.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:53.060
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:53.063
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:30:54.492
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24878491][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:55.168
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1244, recording state is:1
+2020- 9-24 15:30:56.023
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4995, Timestamp:1600932656023
+2020- 9-24 15:30:57.494
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24881493][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:30:58.076
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:58.076
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:30:58.079
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:00.496
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24884495][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:00.701
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.700668][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.702
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.702184][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.705
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.704363][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.725
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.724860][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.729
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.728452][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.847
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.846537][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.848
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.847984][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.850
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.849444][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.853
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.853079][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.855
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.854767][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.858
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.857655][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.860
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.859850][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.888
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.887485][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:00.889
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:00.888989][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:01.026
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4996, Timestamp:1600932661025
+2020- 9-24 15:31:02.981
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:02.982
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:02.985
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:03.500
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24887499][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:03.500
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:03.499689][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:31:06.027
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4997, Timestamp:1600932666027
+2020- 9-24 15:31:06.503
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24890503][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:08.000
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:08.000
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:08.003
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:09.504
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24893503][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:10.898
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.897422][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:10.899
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.898871][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:10.901
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.901076][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:10.977
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.977115][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:10.991
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.990718][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:10.992
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:10.991712][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.028
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4998, Timestamp:1600932671028
+2020- 9-24 15:31:11.064
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.063917][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.066
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.065472][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.068
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.067537][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.070
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.070132][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.072
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.071676][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.076
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.075336][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:11.077
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:11.076688][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:12.508
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24896507][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:13.128
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:13.128
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:13.131
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:15.169
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1245, recording state is:1
+2020- 9-24 15:31:15.511
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24899510][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:15.511
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:15.511000][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:31:16.030
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:4999, Timestamp:1600932676029
+2020- 9-24 15:31:18.052
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:18.052
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:18.055
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:18.514
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24902514][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:20.102
+ /uaibot(  452:547880579552) DEBUG  [app][dispatchDelayedMessages] dispatch delayed msg
+2020- 9-24 15:31:20.102
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchLoop] handle msg id: 402
+2020- 9-24 15:31:20.102
+ /uaibot(  452:547879530976) DEBUG  [app][handleMessage] receive timer upload wakeup msg.
+2020- 9-24 15:31:20.103
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] dispatch msg id: 403, name:msg_timer_upload_wakeup, delay:120s, sender:Timer, receiver:Timer
+2020- 9-24 15:31:20.103
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] before insert telegram.
+2020- 9-24 15:31:20.103
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchMsg] after insert telegram.
+2020- 9-24 15:31:20.138
+ /uaibot(  452:547879530976) DEBUG  [app][handleMessage] wakeup file nums = 4
+2020- 9-24 15:31:20.138
+ /uaibot(  452:547879530976) DEBUG  [app][dispatchLoop] handle msg id: 402 over
+2020- 9-24 15:31:21.031
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5000, Timestamp:1600932681030
+2020- 9-24 15:31:21.088
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.087956][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.090
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.089529][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.092
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.092135][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.098
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.097706][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.099
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.099091][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.200
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.199393][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.201
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.200861][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.202
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.202205][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.204
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.203689][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.207
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.206923][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.209
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.208364][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.222
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.221872][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.224
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:21.223452][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:21.516
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24905515][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:23.048
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:23.048
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:23.051
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:24.518
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24908517][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:26.032
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5001, Timestamp:1600932686031
+2020- 9-24 15:31:27.521
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24911520][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:27.521
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:27.521341][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:31:27.809
+ /uaibot(  452:547477443040) DEBUG  [app][ProcessThread] ===schedule thread live
+2020- 9-24 15:31:28.072
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:28.072
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:28.075
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:30.525
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24914524][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:30.525
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:30.525080][cae_mqtt_client_publish_0:586][send pub topic: Dev/ACB1EE30241C/HeartBeat]
+2020- 9-24 15:31:30.569
+ /uaibot(  452:546074419680) DEBUG  [USS][I][24914568][uss_acd_mqtt_parse_dev_biz_topic:324]get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck
+2020- 9-24 15:31:30.569
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:30.568867][cae_cd_parse_recv_pub:583][get pub(0) topic: Dev/ACB1EE30241C/HeartBeatAck]
+2020- 9-24 15:31:30.569
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:30.569059][cae_cd_priv_recv_pub_cb:1088][payload [0x51]: {"sn":"446"}]
+2020- 9-24 15:31:30.569
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:30.569256][cae_cd_priv_handle_heart_ack:187][heart ack -828797727 sn 446 last -828797771 sn 446 ]
+2020- 9-24 15:31:31.034
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5002, Timestamp:1600932691034
+2020- 9-24 15:31:31.232
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.231915][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.234
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.233610][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.236
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.236190][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.338
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.337570][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.342
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.341439][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.377
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.376791][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.390
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.390172][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.439
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.439224][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.441
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.440774][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.442
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.442182][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.444
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.443704][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.445
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.445250][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.449
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.449045][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.451
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.450364][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:31.459
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:31.459220][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:33.093
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:33.093
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:33.097
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:33.573
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24917572][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:35.169
+ /uaibot(  452:547920452128) DEBUG  [app][main] count: 1246, recording state is:1
+2020- 9-24 15:31:36.036
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5003, Timestamp:1600932696035
+2020- 9-24 15:31:36.576
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24920575][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:38.150
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:38.150
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:38.153
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:39.580
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24923579][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:39.580
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:39.579832][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:31:41.037
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5004, Timestamp:1600932701036
+2020- 9-24 15:31:41.467
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.466932][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.469
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.468489][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.471
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.471073][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.588
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.588108][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.590
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.589471][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.591
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.590967][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.593
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.592734][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.594
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.594200][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.596
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.595782][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.601
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.600439][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.602
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.602019][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.611
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.610639][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.612
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.612198][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.689
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.689145][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:41.691
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:41.690744][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:42.583
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24926583][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:43.064
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:43.064
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:43.067
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:45.587
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24929586][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:46.039
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5005, Timestamp:1600932706038
+2020- 9-24 15:31:48.002
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset start pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:48.003
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset end pChannel:0x803588, locksock:10, sock:10
+2020- 9-24 15:31:48.005
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnChannelRecv] Recv heartbeat: uai-device-heartbeat:192.168.1.109-node-v3.0
+2020- 9-24 15:31:48.588
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24932587][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:51.040
+ /uaibot(  452:547917279712) DEBUG  [sdk][Nodelite][ResendMsgs] SendMsg(6) to 192.168.1.109, SerialNo:5006, Timestamp:1600932711039
+2020- 9-24 15:31:51.592
+ /uaibot(  452:546074419680) DEBUG  [USS][E][24935591][uss_dex_cu_get_localkey_request_inter_byId:110]no usertoken
+
+2020- 9-24 15:31:51.592
+ /uaibot(  452:546074419680) DEBUG  [CAE][I][2020-09-24 15:31:51.591697][cae_sock_show_my_ip_port:1218][fd 121, my ip 192.168.1.110 port 40094]
+2020- 9-24 15:31:51.700
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.699902][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.702
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.701360][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.703
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.703131][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.819
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.818436][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.821
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.820451][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.831
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.830783][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.833
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.832327][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.845
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.844905][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.846
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.846246][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.862
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.861750][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.865
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.865044][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.923
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.922632][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:51.924
+ /uaibot(  452:547479888352) DEBUG  [CAE][I][2020-09-24 15:31:51.924262][cae_sr_k_loop:1069][do normal soft refresh timing!]
+2020- 9-24 15:31:53.099
+ /uaibot(  452:547918328288) DEBUG  [sdk][Nodelite][OnRecieve] Udp recv fd_isset

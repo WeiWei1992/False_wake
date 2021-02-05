@@ -33,6 +33,8 @@ def handle(text,log_time,test_time,device_id,email):
     # print(data1)
     # print(type(data1))
 
+    time_span=0
+
     logging.info("首先先记录下开始时间为： "+str(data1))
     # global first_flag
     first_flag=True
@@ -42,6 +44,16 @@ def handle(text,log_time,test_time,device_id,email):
         # logging.info("先删除日志文件")
         # delete_files()
         while True:
+
+            t11 = time.localtime()  # <class 'time.struct_time'>
+            data11 = time.strftime('%Y-%m-%d %H:%M:%S', t11)  # str
+            # print(data1)
+            # print(type(data1))
+            data11 = datetime.datetime.strptime(data11, '%Y-%m-%d %H:%M:%S')
+            logging.info("当前循环开始时间为： "+str(data11))
+
+
+
             if first_flag:
                 text.insert(END, "首次拉取日志和audio文件并处理\n")
                 logging.info("首先要提取下当前日志，为了最后过滤")
@@ -66,9 +78,17 @@ def handle(text,log_time,test_time,device_id,email):
             time_interval=d.seconds
             logging.info("时间间隔为(s): "+str(time_interval))
 
-            logging.info("判断时间间隔是否超过了要测试的时间")
+            # dd2=data2-data11
+            # logging.info("本次循环耗时： "+str(dd2))
+            # time_span=time_span+dd2
+            # logging.info("循环总共耗时： "+str(time_span))
 
-            if time_interval>test_time:
+            logging.info("判断时间间隔是否超过了要测试的时间")
+            logging.info("test_time:  "+str(test_time))
+            logging.info("time_interval: "+str(time_interval))
+            logging.info("time_span: "+str(time_span))
+
+            if time_interval>test_time or time_span>test_time:
                 logging.info("时间间隔超过了要测试的时间，退出循环")
                 break
             else:
@@ -89,6 +109,18 @@ def handle(text,log_time,test_time,device_id,email):
                 logging.info("开始正则匹配")
                 log_check(text,filepath,first_flag)
                 first_flag=False
+
+                t22=time.localtime()
+                #time.strftime('%Y-%m-%d %H:%M:%S', t2)
+                data22=time.strftime('%Y-%m-%d %H:%M:%S',t22)
+                data22=datetime.datetime.strptime(data22,'%Y-%m-%d %H:%M:%S')
+                logging.info("当前循环结束时间为:  "+str(data22))
+
+                d22=data22-data11
+                d22_second=d22.seconds
+                logging.info("本次循环时间间隔为: "+str(d22_second))
+                time_span=time_span+d22_second
+
     except Exception as e:
         logging.error("异常信息： "+str(e))
         logging.error("出现了异常，开始保存文件")
@@ -122,25 +154,60 @@ def handle(text,log_time,test_time,device_id,email):
 
 
 if __name__=='__main__':
-    t1 = time.localtime()  # <class 'time.struct_time'>
-    data1 = time.strftime('%Y-%m-%d %H:%M:%S', t1)  # str
-    print(data1)
-    print(type(data1))
-    data1=datetime.datetime.strptime(data1,'%Y-%m-%d %H:%M:%S')
-    print(data1)
-    print(type(data1))
+    # # t1 = time.localtime()  # <class 'time.struct_time'>
+    # # data1 = time.strftime('%Y-%m-%d %H:%M:%S', t1)  # str
+    # # print(data1)
+    # # print(type(data1))
+    # # data1=datetime.datetime.strptime(data1,'%Y-%m-%d %H:%M:%S')
+    # # print(data1)
+    # # print(type(data1))
+    # #
+    # # time.sleep(10)
+    # # t2 = time.localtime()
+    # # data2=time.strftime('%Y-%m-%d %H:%M:%S', t2)
+    # # print(data2)
+    # # print(type(data2))
+    # # data2 = datetime.datetime.strptime(data2, '%Y-%m-%d %H:%M:%S')
+    # # print(data2)
+    # # print(type(data2))
+    # #
+    # # d=data2-data1
+    # #
+    # # print(d.seconds)
+    #
+    # t1 = time.localtime()  # <class 'time.struct_time'>
+    # data1 = time.strftime('%Y-%m-%d %H:%M:%S', t1)  # str
+    # # print(data1)
+    # # print(type(data1))
+    # data1 = datetime.datetime.strptime(data1, '%Y-%m-%d %H:%M:%S')
+    # # print(data1)
+    # # print(type(data1))
+    #
+    # logging.info("首先先记录下开始时间为： " + str(data1))
+    #
+    # time.sleep(4)
+    #
+    # t2 = time.localtime()
+    # data2 = time.strftime('%Y-%m-%d %H:%M:%S', t2)
+    # # print(data2)
+    # # print(type(data2))
+    # data2 = datetime.datetime.strptime(data2, '%Y-%m-%d %H:%M:%S')
+    # # print(data2)
+    # # print(type(data2))
+    # logging.info("记录下当前时间为： " + str(data2))
+    #
+    #
+    # d=data2-data1
+    # print("d: ",d)
+    # time_interval=d.seconds
+    # logging.info("时间间隔为(s): "+str(time_interval))
 
-    time.sleep(10)
-    t2 = time.localtime()
-    data2=time.strftime('%Y-%m-%d %H:%M:%S', t2)
-    print(data2)
-    print(type(data2))
-    data2 = datetime.datetime.strptime(data2, '%Y-%m-%d %H:%M:%S')
-    print(data2)
-    print(type(data2))
+    num=10
+    num1=9
+    num2=12
 
-    d=data2-data1
-
-    print(d.seconds)
-
+    if num1>num or num2>num:
+        print("执行了")
+    else:
+        print("没有执行")
 

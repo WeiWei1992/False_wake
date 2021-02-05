@@ -41,7 +41,10 @@ def _ui():
     wh = 100
     # 窗口宽高为100
     x = (sw - ww) / 2
-    y = ((sh - wh) / 5) * 4
+    y = ((sh - wh) / 4) * 3
+    # print("x: ",x)
+    # print("y:  ",y)
+
     # root.geometry("%dx%d+%d+%d" % (ww, wh, x, y))
     root.geometry("%dx%d+%d+%d" % (x, y, ww, wh))
     # root.minsize(560,545)
@@ -96,7 +99,7 @@ def _ui():
     # e2 = Entry(root)
     device_id_entry.grid(row=3, column=1, sticky=W)
 
-    email = StringVar(value=("319910390@qq.com;"))
+    email = StringVar(value=("319910390@qq.com;292363671@qq.com;"))
     email_label = Label(root, text="email ", foreground="white", background="blue")
     email_label.grid(sticky=E, padx=20, pady=20)
     email_entry = Entry(root, textvariable=email, width=80)
